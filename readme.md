@@ -8,7 +8,7 @@
 
 ## Questions
 
-1.	What are the main differences between Angular and React? 2.	What is the main reason companies are moving towards React? 3.	What is the difference between presentational and container components? 4.	What is the virtual DOM and why is this important? 5.	What is Redux? 6.	What is Isomoprhic or Universal Javascript? 7.	What is “closure” in Javascript? 8.	What is a promise? 9.	What is the drawback of creating true private methods in JavaScript? 10. What is a Javascript task runner you have used? Why are these important? 11.	 What's the difference between .forEach and .map methods?12. Explain Event Bubbling and Event Delegation.14. What is the difference fixed, absolute, relative position in CSS?
+1.	What are the main differences between Angular and React? 2.	What is the main reason companies are moving towards React? 3.	What is the difference between presentational and container components? 4.	What is the virtual DOM and why is this important? 5.	What is Redux? 6.	What is Isomoprhic or Universal Javascript? 7.	What is “closure” in Javascript? 8.	What is a promise? 9.	What is the drawback of creating true private methods in JavaScript? 10. What is a Javascript task runner you have used? Why are these important? 11.	 What's the difference between the `.forEach` and `.map` methods?12. Explain Event Bubbling and Event Delegation.14. What is the difference fixed, absolute, relative position in CSS?
  
 15. What is the difference between == and === in JavaScript?
  
